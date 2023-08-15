@@ -207,7 +207,6 @@ const PricingSection = () => {
             <BtnLink className="text-yellow-200" href="#">
               Ask Charles to buy &#x2192;
             </BtnLink>
-
             <BtnLink href="#">Learn More &#x2192;</BtnLink>
           </ButtonContainer>
         </Details>
